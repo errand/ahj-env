@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qvewjjq6unj4msxp?svg=true)](https://ci.appveyor.com/project/errand/ahj-env)
+
+[GH Pages](https://errand.github.io/ahj-env/) 
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ---
